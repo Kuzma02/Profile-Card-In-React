@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto&display=swap');
+
+
+
+*{
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+}
+
+html{
+  font-size: 10px;
+}
+
+body{
+  background-color: #28223F;
+  color: #B3BBCD;
+  font-family: "Poppins", sans-serif;
+}
+
+li{
+  list-style: none;
+}
+
+section{
+  width: 32rem;
+  position: absolute;
+  top: 50%;
+  right: 50%;
+  transform: translate(50%, -50%);
+  box-shadow: 0px 10px 20px -10px rgba(0, 0, 0, 0.75)
+}
+
+.personal{
+  background-color: #231E39;
+  padding: 2.5rem 0 1.5rem 0;
+}
+
+.personal .pro{
+  background-color: #FEBB0B;
+  color: #231E39;
+  border: 1px solid #FEBB0B;
+  border-radius: .2rem;
+  font-size: 1.4rem;
+  padding: .1rem .7rem;
+  position: absolute;
+  top: 1.5rem;
+  left: 2rem;
+}
+
+.personal img{
+  width: 12rem;
+  height: 12rem;
+  border-radius: 50%;
+  border: .2rem solid #03BFCB;
+  display: block;
+  margin: auto;
+  
+}
+
+.personal .name{
+  margin-top: 1rem;
+  text-align: center;
+}
+
+.personal .country{
+  text-align: center;
+  font-size: 1.3rem;
+  margin: 0.2rem;
+}
+
+.personal .stack{
+  text-align: center;
+  font-size: 1.6rem;
+  margin-top: 2.5rem;
+
+}
+
+.personal .buttons{
+  text-align: center;
+  margin: 1rem;
+}
+
+.personal button{
+  border: 1px solid #03BFCB;
+  padding: .8rem 1.8rem;
+  border-radius: .3rem;
+  font-size: 1.3rem;
+}
+
+.personal button:hover{
+  cursor: pointer;
+}
+
+.personal button.primary{
+  background-color: #03BFCB;
+  color: #231E39;
+  margin-right: .5rem;
+}
+
+.personal button.secondary{
+  background-color: transparent;
+  color: #02899C;
+  margin-left: .5rem;
+}
+
+.social{
+  text-align: center;
+}
+
+.social svg{
+  font-size: 2.5rem;
+  margin: 1rem 0.4rem .1rem 0.4rem;
+  cursor: pointer;
+}
+
+.skills{
+  background-color: #1F1A36;
+  padding: 1.6rem 1rem;
+}
+
+.skills h2{
+  text-transform: uppercase;
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+}
+
+.skills ul li{
+  display: inline-block;
+  font-size: 1.2rem;
+  border: .2rem solid #272240;
+  border-radius: .2rem;
+  padding: .4rem;
+  margin: .2rem .1rem;
+}
