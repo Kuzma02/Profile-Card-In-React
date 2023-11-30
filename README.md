@@ -1,8 +1,25 @@
-# React + Vite
+# React.js Profile Card
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![image](https://github.com/Kuzma02/Profile-Card-In-React/assets/138793624/ba614e22-10dc-40e8-8735-ad2f0b3b184c)
 
-Currently, two official plugins are available:
+# Project Overview
+This repository contains a profile card component built using React.js. Designed to showcase user profiles in a sleek and modern design, this component is perfect for integrating into personal websites, dashboards, or team display pages.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Features
+- Responsive Design: Ensures compatibility with different device sizes.
+- Customizable Appearance: Easy to modify colors, fonts, and layout to fit your style.
+- Dynamic Data Handling: Ready to integrate with APIs for real-time data display.
+- Accessible: Built with accessibility in mind to cater to all users.
+
+# Technologies Used
+React.js
+CSS3
+JavaScript (ES6+)
+
+# Getting Started
+Clone the repository.
+Install dependencies: npm install
+Run the project: npm run dev
+
+
+
