@@ -12,14 +12,15 @@ This repository contains a profile card component built using React.js. Designed
 - Accessible: Built with accessibility in mind to cater to all users.
 
 # Technologies Used
-React.js
-CSS3
-JavaScript (ES6+)
+- React.js
+- CSS3
+- JavaScript (ES6+)
+- HTML5
 
 # Getting Started
-Clone the repository.
-Install dependencies: npm install
-Run the project: npm run dev
+1. Clone the repository.
+2. Install dependencies: npm install
+3. Run the project: npm run dev
 
 
 
